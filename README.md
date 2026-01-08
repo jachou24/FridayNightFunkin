@@ -1,1 +1,1 @@
-# fridayNightFunkin
+This remake of Friday Night Funkin' is originally developed, NOT pulling directly from the open source materials. There is a menu page as well as the game, and restart functionality. It also includes hand-drawn graphics of my friends and backgrounds. The animation functionality is also originally developed, in a low-level method, using multi-threading programming.
